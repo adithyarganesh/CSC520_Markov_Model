@@ -1,0 +1,28 @@
+Below are the generated 10 sentences for each author along with their probabilities 
+Prob1 is the determined probability for author1 and Prob2 is the determined probability for author2 
+
+
+Sentences generated for author 1
+fail conjecture design willing attempt known till success might known likewise though feeling almost secure reason charlotte tolerably composed gained, Prob1: 6.535059286057839e-07, Prob2: 1.0000000000000007e-76
+inventing every evening fresh excuse visitor last appear shortness stay yet alteration manner since last saw promising glad liked hope, Prob1: 2.1783530953526143e-07, Prob2: 1.42857142857143e-73
+reckoned proud many people happiness guardianship much pleasure time circumstance rose calling sunday asked henry take family dinner engagement home, Prob1: 6.22386598672175e-08, Prob2: 1.0000000000000007e-76
+measures art far conceal sister town knew known miss bingley though mother found intolerable younger sisters miss bennet late mr, Prob1: 5.778124921359711e-11, Prob2: 1.0000000000000007e-76
+resolution hunting motive professed conviction owing wickham worthlessness well known commodious green vehicle heads full bantam cocks galinies entered house, Prob1: 2.6140237144231354e-06, Prob2: 1.0000000000000007e-76
+custom mary went buy gloves minutes course sittingbourne drove drove drove six o clock uncle aunt happily timed post brought, Prob1: 2.4895463946886986e-09, Prob2: 1.0000000000000007e-72
+june 6 time dearest cassandra seated breakfast dining sitting room beginning might fanny join soon dressed tell good good enough, Prob1: 1.0211030134465373e-08, Prob2: 1.0000000000000007e-76
+financial support provide volunteers assistance need critical reaching project gutenberg literary archive foundation tax deductible full extent permitted u federal, Prob1: 2.4036999672856365e-07, Prob2: 5.026842711725262e-08
+condolence insufferable let triumph us distance satisfied proceeded inquire measures father intended purchase estate live mr darcy contempt seemed abundantly, Prob1: 9.57517844111032e-09, Prob2: 1.0000000000000007e-76
+arose dreadful suspicion purposely omitted mr darcy called sister join expressing wish seeing mr wickham rejoiced longbourn party last company, Prob1: 6.558341398020771e-11, Prob2: 1.0000000000000007e-76
+
+
+Sentences generated for author 2
+spanish friars winking shelves wanton slyness girls went glanced demurely hung mistletoe pears apples clustered high blooming pyramids bunches grapes, Prob1: 1.0000000000000007e-76, Prob2: 5.466691449001234e-06
+murdered didn read display indifference actions passions mankind supposed distinguished quality time think observed highly creditable concerned least know meant, Prob1: 1.0000000000000007e-76, Prob2: 5.466691449001234e-07
+foolscap document folded form large letter opening packet old flourish glancing contents cherished artistic admiration style composition extraordinary relish sat, Prob1: 1.0000000000000007e-76, Prob2: 2.7333457245006172e-06
+observers sir suppose subdued broken detestable mould heaven help said come certain fashions said come returned followed respectable mr littimer, Prob1: 1.0000000000000007e-76, Prob2: 1.88246950723183e-09
+studying working patiently accustomed robust exercise health severely impaired left england last least mr micawber smiling another burst distress breaking, Prob1: 1.0000000000000007e-76, Prob2: 2.241365907749592e-10
+destiny implored spare gentle nature always right talk said mr maldon made excuses come back vacate seat corner shall go, Prob1: 1.0000000000000007e-76, Prob2: 8.789910486424948e-12
+wavering somehow across hall stairs slowly trimming candle went bed began wonder fearfully would done elephant make em said mr, Prob1: 1.0000000000000007e-76, Prob2: 4.3803617379817573e-10
+fir cleaving wintry snow drift saw move little hand going dover said come trotwood said mr jorkins mr tiffey interposed, Prob1: 1.0000000000000007e-76, Prob2: 1.1475027128523143e-13
+sobbed m often cross changeable ought far different never ever think pretty said course heaven knows life well employed bearing, Prob1: 1.0000000000000007e-76, Prob2: 3.253983005357877e-09
+pleasanter face replaced occasion last desperate saw aunt unbend systematically anyone courted jip though jip never mind broken meats miserable, Prob1: 1.0000000000000007e-76, Prob2: 4.1414329159100245e-09
